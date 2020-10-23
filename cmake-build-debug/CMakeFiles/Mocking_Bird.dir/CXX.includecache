@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Google Drive/2020 Fall/CS 2C/Source Code/Mocking Bird/BST.h
+string
+-
+
+F:/Google Drive/2020 Fall/CS 2C/Source Code/Mocking Bird/Lazy_BST.h
+iostream
+-
+
+F:/Google Drive/2020 Fall/CS 2C/Source Code/Mocking Bird/main.cpp
+iostream
+-
+Lazy_BST.h
+F:/Google Drive/2020 Fall/CS 2C/Source Code/Mocking Bird/Lazy_BST.h
+BST.h
+F:/Google Drive/2020 Fall/CS 2C/Source Code/Mocking Bird/BST.h
+math.h
+-
+
